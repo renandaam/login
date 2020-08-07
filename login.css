@@ -1,0 +1,27 @@
+.container {
+    width: 27%;
+    margin-top: 8%;
+    box-shadow: 0 3px 20px rgba(0,0,0,0.3);
+    padding: 62px;
+    background: white;
+   
+
+}
+button{
+    width: 100%;
+}
+a{
+    text-decoration: underline;
+    color: purple;
+}
+
+h4{
+    font-weight: bold;
+}
+
+body{
+    margin: 0px;
+    background: orange;
+
+}
+
