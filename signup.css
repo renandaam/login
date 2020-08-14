@@ -1,0 +1,23 @@
+.container {
+    width: 37%;
+    box-shadow: 0 3px 20px rgba(0,0,0,0.3);
+    padding: 62px;
+    background: white;
+
+}
+button{
+    width: 100%;   
+}
+
+h6{
+    text-align: right;
+}
+body{
+    margin: 0px;
+    background: orange;
+
+}
+
+
+
+
